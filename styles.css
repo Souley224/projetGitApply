@@ -1,3 +1,14 @@
 h1 {
     color: red;
+    font-size: 2em;
+    background: #f8f7f7;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: rgba(0, 255, 42, 0.83);
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    background: #e3dfdf;
 }
